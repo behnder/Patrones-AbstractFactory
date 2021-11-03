@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MUKBOnZj3MIFKzCY8Tz4YyyeVxtNm4DWyaxxTXrfyuK4Pwz8d+wqsfXmizAoT6q/tamNVN5+NSVNHLiQOQJcVg==",
+  "dgSpecHash": "iLIJGuWES9X9KksJL8FzsSiqB4UgLq+gwnPheioHLzYG7lH9cugeCk9ZXPK9ttGw6I+zIzheicNZKp1ysdnLJw==",
   "success": true,
-  "projectFilePath": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj",
+  "projectFilePath": "E:\\unity\\quark\\Patrones\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

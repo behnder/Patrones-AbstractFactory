@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Patrones_AbstractFactory
 {
-    class Robot : IEnemigo
+    class Humano : IEnemigo
     {
         public void Ataque()
         {
@@ -13,7 +13,7 @@ namespace Patrones_AbstractFactory
 
         public void Descripcion()
         {
-            Console.WriteLine("Enemigo tipo Robot");
+            Console.WriteLine("Enemigo tipo Humano");
         }
     }
 }

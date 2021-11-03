@@ -5,14 +5,13 @@ using System.Collections.Generic;
 using System.Text;
 
 
-
 namespace Patrones_AbstractFactory
 {
-    class FabricaDeArmas : FabricaAbstracta
+    class FabricaTerrestre : FabricaAbstracta
     {
-        public IArma GetArma(string tipoDisparo)
+        public IArma GetArma(string tipoDeArma)
         {
-            return tipoDisparo switch
+            return tipoDeArma switch
             {
                 "Cañon Simple" => new CanonSimple(),
                 "Cañon Triple" => new CanonTriple(),
@@ -21,9 +20,15 @@ namespace Patrones_AbstractFactory
             };
         }
 
-        public IEnemigo GetEnemigo(string tipoDeEnemigo)
+        public IEnemigo GetEnemigo(string tipoEnemigo)
         {
-            throw null;
+            return tipoEnemigo switch
+            {
+                "Bestia" => new Bestia(),
+                "Insecto" => new Insecto(),
+                "Humano" => new Humano(),
+                _ => null,
+            };
         }
     }
 }

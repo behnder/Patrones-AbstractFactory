@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj": {}
+    "E:\\unity\\quark\\Patrones\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj": {}
   },
   "projects": {
-    "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj": {
+    "E:\\unity\\quark\\Patrones\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj",
+        "projectUniqueName": "E:\\unity\\quark\\Patrones\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj",
         "projectName": "Patrones-AbstractFactory",
-        "projectPath": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj",
+        "projectPath": "E:\\unity\\quark\\Patrones\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
-        "outputPath": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\obj\\",
+        "outputPath": "E:\\unity\\quark\\Patrones\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
