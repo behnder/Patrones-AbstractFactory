@@ -1,3 +1,2 @@
 AbstractFactory
-Es un patrón de diseño creacional. Abstract Factory es similar al patrón Factory. 
-Es considerado otra capa de abstracción que trabaja como una super fábrica que crea otras fábricas
+Abstract Factory es un patrón de diseño creacional que nos permite producir familias de objetos relacionados sin especificar sus clases concretas.
